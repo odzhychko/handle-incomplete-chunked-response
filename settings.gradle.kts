@@ -13,4 +13,5 @@ plugins {
 }
 
 include("server-mockserver")
+include("client-java")
 include("client-ktor")
